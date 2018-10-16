@@ -1,0 +1,75 @@
+Report for Institution Code MBML, Resource mbml-mamiferos
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 35
+Number of records retrieved in searches: 90
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Italy ; Times: 3
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 18
+	Country: France ; Times: 2
+	Country: United States ; Times: 2
+	Country: Guatemala ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-07 ; Times: 1
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-16 ; Times: 17
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-10 ; Times: 1
+	Date: 2018-05-17 ; Times: 2
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-18 ; Times: 1
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-29 ; Times: 4
+	Date: 2018-05-21 ; Times: 2
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:soricina genus:glossophaga hastypestatus:1" ; Times: 1
+	Query: "Cabassous" ; Times: 2
+	Query: "Lophostoma brasiliense" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "specificepithet:nasua genus:Nasua mappable:1" ; Times: 1
+	Query: "Diaemus youngi" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 16
+	Query: "Vampyrum spectrum" ; Times: 2
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "Cuniculus paca" ; Times: 1
+	Query: "catalognumber:1852" ; Times: 1
+	Query: "delomys" ; Times: 2
+	Query: "specificepithet:onca genus:panthera basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:nasua genus:Nasua mappable:1 year&gt;=2000" ; Times: 1
+	Query: "vampyrum" ; Times: 1
+	Query: "specificepithet:norvegicus genus:Rattus mappable:1 year&gt;=2000" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1178 download events in this period)
+Total number of records downloaded: 37
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "specificepithet:onca genus:panthera basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "delomys" ; Times: 1
+
+
+End of report.
