@@ -1,0 +1,153 @@
+Report for Institution Code MBML, Resource mbml-mamiferos
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 104
+Number of records retrieved in searches: 1356
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 93
+	Country: Brazil ; Times: 3
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-01 ; Times: 1
+	Date: 2018-04-12 ; Times: 4
+	Date: 2018-04-10 ; Times: 4
+	Date: 2018-04-02 ; Times: 4
+	Date: 2018-04-04 ; Times: 4
+	Date: 2018-04-09 ; Times: 3
+	Date: 2018-04-08 ; Times: 1
+	Date: 2018-04-18 ; Times: 3
+	Date: 2018-04-23 ; Times: 64
+	Date: 2018-04-27 ; Times: 2
+	Date: 2018-04-24 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Metachirus specificepithet:nudicaudatus mappable:1" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "genus:Delomys specificepithet:dorsalis mappable:1" ; Times: 1
+	Query: "genus:Procyon specificepithet:cancrivorus mappable:1" ; Times: 3
+	Query: "genus:Juliomys specificepithet:pictipes mappable:1" ; Times: 1
+	Query: "genus:Delomys specificepithet:sublineatus mappable:1" ; Times: 1
+	Query: "genus:Leontopithecus specificepithet:chrysomelas mappable:1" ; Times: 1
+	Query: "genus:Blarinomys specificepithet:breviceps mappable:1" ; Times: 1
+	Query: "genus:Gracilinanus specificepithet:microtarsus mappable:1" ; Times: 1
+	Query: "genus:Cuniculus specificepithet:paca mappable:1" ; Times: 1
+	Query: "genus:Trinomys specificepithet:paratus mappable:1" ; Times: 2
+	Query: "genus:Callicebus specificepithet:personatus mappable:1" ; Times: 1
+	Query: "genus:Monodelphis specificepithet:scalops mappable:1" ; Times: 1
+	Query: "genus:Brachyteles specificepithet:arachnoides mappable:1" ; Times: 1
+	Query: "specificepithet:thous genus:Cerdocyon year &gt;= 1941 year &lt;= 1960" ; Times: 1
+	Query: "genus:Oligoryzomys specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "Leopardus wiedii mappable:1" ; Times: 2
+	Query: "genus:Callithrix institutioncode:MBML" ; Times: 1
+	Query: "genus:Hydrochoerus specificepithet:hydrochaeris mappable:1" ; Times: 1
+	Query: "genus:Callithrix specificepithet:flaviceps mappable:1" ; Times: 1
+	Query: "genus:Dasypus specificepithet:septemcinctus mappable:1" ; Times: 1
+	Query: "diaemus youngi specificepithet:youngi genus:diaemus" ; Times: 1
+	Query: "genus:Chironectes specificepithet:minimus mappable:1" ; Times: 1
+	Query: "genus:Marmosops specificepithet:incanus mappable:1" ; Times: 1
+	Query: "genus:Bradypus specificepithet:tridactylus mappable:1" ; Times: 1
+	Query: "genus:Cavia specificepithet:fulgida mappable:1" ; Times: 1
+	Query: "genus:Monodelphis specificepithet:americana mappable:1" ; Times: 1
+	Query: "mamiferos" ; Times: 1
+	Query: "genus:Cabassous specificepithet:tatouay mappable:1" ; Times: 1
+	Query: "genus:Potos specificepithet:flavus mappable:1" ; Times: 1
+	Query: "genus:Puma specificepithet:yagouaroundi mappable:1" ; Times: 2
+	Query: "genus:Nasua specificepithet:nasua mappable:1" ; Times: 1
+	Query: "genus:Alouatta specificepithet:guariba mappable:1" ; Times: 1
+	Query: "genus:Didelphis specificepithet:aurita mappable:1" ; Times: 1
+	Query: "genus:Thaptomys specificepithet:nigrita mappable:1" ; Times: 2
+	Query: "specificepithet:gouazoubira genus:Mazama mappable:1" ; Times: 1
+	Query: "genus:Marmosa specificepithet:murina mappable:1" ; Times: 1
+	Query: "genus:Callithrix specificepithet:geoffroyi mappable:1" ; Times: 1
+	Query: "genus:Trinomys specificepithet:gratiosus mappable:1" ; Times: 2
+	Query: "genus:Tayassu specificepithet:pecari mappable:1" ; Times: 2
+	Query: "family:Dasypodidae institutioncode:MBML" ; Times: 1
+	Query: "genus:Leopardus specificepithet:wiedii mappable:1" ; Times: 1
+	Query: "genus:Cerradomys specificepithet:vivoi mappable:1" ; Times: 1
+	Query: "genus:Juliomys specificepithet:ossitenuis mappable:1" ; Times: 1
+	Query: "genus:Oecomys specificepithet:trinitatis mappable:1" ; Times: 1
+	Query: "genus:Akodon specificepithet:cursor mappable:1" ; Times: 1
+	Query: "genus:Callithrix specificepithet:jacchus mappable:1" ; Times: 1
+	Query: "genus:Tamandua specificepithet:tetradactyla mappable:1" ; Times: 2
+	Query: "genus:Sooretamys specificepithet:angouya mappable:1" ; Times: 2
+	Query: "specificepithet:thous genus:Cerdocyon year &gt;= 2001 year &lt;= 2018" ; Times: 1
+	Query: "genus:Oxymycterus specificepithet:hispidus mappable:1" ; Times: 1
+	Query: "genus:Rhipidomys specificepithet:mastacalis mappable:1" ; Times: 1
+	Query: "genus:Eira specificepithet:barbara mappable:1" ; Times: 1
+	Query: "genus:Sciurus specificepithet:ingrami mappable:1" ; Times: 2
+	Query: "Leopardus tigrinus" ; Times: 2
+	Query: "genus:Marmosops specificepithet:paulensis mappable:1" ; Times: 1
+	Query: "kannabateomys" ; Times: 1
+	Query: "genus:Cerdocyon specificepithet:thous mappable:1" ; Times: 1
+	Query: "genus:Caluromys specificepithet:philander mappable:1" ; Times: 1
+	Query: "molossus 845" ; Times: 1
+	Query: "specificepithet:thous genus:Cerdocyon year &gt;= 1981 year &lt;= 2000" ; Times: 1
+	Query: "family:Erethizontidae institutioncode:MBML" ; Times: 3
+	Query: "family:Echimyidae institutioncode:MBML" ; Times: 1
+	Query: "genus:Euryoryzomys specificepithet:russatus mappable:1" ; Times: 1
+	Query: "genus:Trinomys specificepithet:iheringi mappable:1" ; Times: 2
+	Query: "genus:Cavia specificepithet:aperea mappable:1" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "genus:Gracilinanus specificepithet:agilis mappable:1" ; Times: 1
+	Query: "genus:Leopardus specificepithet:tigrinus mappable:1" ; Times: 1
+	Query: "genus:Rhagomys specificepithet:rufescens mappable:1" ; Times: 1
+	Query: "genus:Chaetomys" ; Times: 1
+	Query: "genus:Lontra specificepithet:longicaudis mappable:1" ; Times: 1
+	Query: "Sylvilagus vntype:specimen (Brazil)" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:brasiliensis mappable:1" ; Times: 2
+	Query: "genus:Didelphis specificepithet:albiventris mappable:1" ; Times: 1
+	Query: "genus:Mazama specificepithet:americana mappable:1" ; Times: 2
+	Query: "genus:Galictis specificepithet:cuja mappable:1" ; Times: 1
+	Query: "genus:Phyllomys specificepithet:pattoni mappable:1" ; Times: 1
+	Query: "genus:Callithrix specificepithet:aurita mappable:1" ; Times: 1
+	Query: "genus:Kannabateomys specificepithet:amblyonyx mappable:1" ; Times: 1
+	Query: "genus:Bradypus specificepithet:torquatus mappable:1" ; Times: 1
+	Query: "genus:Nectomys specificepithet:squamipes mappable:1" ; Times: 1
+	Query: "Sylvilagus vntype:specimen (Brasil)" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 2
+	Query: "genus:Callithrix specificepithet:penicillata mappable:1" ; Times: 1
+	Query: "order:Primates institutioncode:MBML" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1359 download events in this period)
+Total number of records downloaded: 329
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Brazil ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-10 ; Times: 3
+	Date: 2018-04-02 ; Times: 3
+	Date: 2018-04-05 ; Times: 3
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-15 ; Times: 1
+	Date: 2018-04-08 ; Times: 2
+	Date: 2018-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "specificepithet:gouazoubira genus:Mazama mappable:1" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "Platyrrhinus lineatus" ; Times: 3
+	Query: "genus:myotis family:vespertilionidae" ; Times: 1
+	Query: "family:Erethizontidae institutioncode:MBML" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "specificepithet:Americana genus:Mazama mappable:1" ; Times: 1
+	Query: "Holochilus" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "genus:Chaetomys" ; Times: 1
+
+
+End of report.
