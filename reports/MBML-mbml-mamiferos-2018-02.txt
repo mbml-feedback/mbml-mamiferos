@@ -1,0 +1,130 @@
+Report for Institution Code MBML, Resource mbml-mamiferos
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 39
+Number of records retrieved in searches: 160
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 28
+	Country: Colombia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 1
+	Date: 2018-02-21 ; Times: 2
+	Date: 2018-02-16 ; Times: 11
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-27 ; Times: 5
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-20 ; Times: 1
+	Date: 2018-02-28 ; Times: 3
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-02 ; Times: 1
+	Date: 2018-02-01 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "Histiotus velatus" ; Times: 1
+	Query: "Callithrix flaviceps " ; Times: 1
+	Query: "Brachyteles arachnoides " ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "&#34;RIo DOce&#34; class:Mammalia" ; Times: 1
+	Query: "Bradypus tridactylus" ; Times: 4
+	Query: "scientificname:&#34;monodelphis sp.&#34;" ; Times: 1
+	Query: "Marmosops paulensis " ; Times: 1
+	Query: "Trinomys gratiosus " ; Times: 1
+	Query: "nectomys squamipes" ; Times: 2
+	Query: "catalognumber:1322" ; Times: 1
+	Query: "Sicista armenica " ; Times: 1
+	Query: "Diaemus youngi" ; Times: 1
+	Query: "scientificname:&#34;brachyteles arachnoides&#34;" ; Times: 1
+	Query: "Natalus espiritosantensis " ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "Chaetomys subspinosus " ; Times: 1
+	Query: "scientificname:&#34;callithrix sp.&#34;" ; Times: 1
+	Query: "Tonatia bidens" ; Times: 1
+	Query: "catalognumber:1639" ; Times: 1
+	Query: "Blarinomys" ; Times: 1
+	Query: "Trinomys paratus " ; Times: 1
+	Query: "specificepithet:thous genus:Cerdocyon" ; Times: 1
+	Query: "catalognumber:1508" ; Times: 1
+	Query: "Brachyteles hypoxanthus " ; Times: 1
+	Query: "Rhagomys rufescens " ; Times: 1
+	Query: "scientificname:&#34;alouatta sp.&#34;" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "Moojen" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "Bradypus torquatus " ; Times: 1
+	Query: "genus:Hydrochoerus family:caviidae" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "catalognumber:2201" ; Times: 1
+	Query: "Leopardus wiedii mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 1892 download events in this period)
+Total number of records downloaded: 8763
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 39
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 1
+	Date: 2018-02-20 ; Times: 2
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-01 ; Times: 38
+	Date: 2018-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "Phyllostomus discolor" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "Pteronotus parnellii" ; Times: 1
+	Query: "Artibeus jamaicensis" ; Times: 1
+	Query: "Phyllostomus hastatus" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Bradypus tridactylus" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 2
+	Query: "Saccopteryx bilineata" ; Times: 1
+	Query: "puma" ; Times: 2
+	Query: "Diphylla ecaudata" ; Times: 1
+	Query: "Histiotus velatus" ; Times: 1
+	Query: "Diaemus youngi" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "Carollia perspicillata" ; Times: 1
+	Query: "class:Mammalia institutioncode:MBML" ; Times: 2
+	Query: "Phyllostomus elongatus" ; Times: 2
+	Query: "Tonatia bidens" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Sturnira lilium" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Uroderma bilobatum" ; Times: 1
+	Query: "Peropteryx macrotis" ; Times: 1
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "Artibeus lituratus" ; Times: 1
+	Query: "Dasyprocta leporina" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "Anoura caudifer" ; Times: 1
+	Query: "Rhinophylla pumilio" ; Times: 1
+
+
+End of report.
