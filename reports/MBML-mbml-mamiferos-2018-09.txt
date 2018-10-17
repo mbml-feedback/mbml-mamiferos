@@ -1,0 +1,74 @@
+Report for Institution Code MBML, Resource mbml-mamiferos
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 223
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 13
+	Country: United States ; Times: 4
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-19 ; Times: 4
+	Date: 2018-09-23 ; Times: 2
+	Date: 2018-09-24 ; Times: 2
+	Date: 2018-09-25 ; Times: 2
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-14 ; Times: 2
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:caparao" ; Times: 2
+	Query: "Brachyteles hypoxanthus" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "Brachyteles arachnoides" ; Times: 1
+	Query: "artibeus gnomus" ; Times: 1
+	Query: "stateprovince:&#34;Minas Gerais&#34; institutioncode:MBML" ; Times: 1
+	Query: "Callithrix penicillata" ; Times: 1
+	Query: "Leontopithecus chrysomelas" ; Times: 1
+	Query: "Artibeus gnomus" ; Times: 1
+	Query: "delomys" ; Times: 3
+	Query: "mamiferos" ; Times: 1
+	Query: "specificepithet:breviceps genus:Blarinomys" ; Times: 2
+	Query: "catalognumber:2241 institutioncode:MBML" ; Times: 2
+	Query: "Caluromys philander" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 846 download events in this period)
+Total number of records downloaded: 56
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-13 ; Times: 2
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-26 ; Times: 2
+	Date: 2018-09-01 ; Times: 1
+	Date: 2018-09-07 ; Times: 1
+	Date: 2018-09-18 ; Times: 1
+	Date: 2018-09-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:onca genus:panthera year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "micronycteris minuta" ; Times: 1
+	Query: "DIDELPHIS ALBIVENTRIS" ; Times: 1
+	Query: "delomys" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "specificepithet:concolor genus:Puma mappable:1" ; Times: 1
+	Query: "Caluromys philander" ; Times: 1
+
+
+End of report.
