@@ -1,0 +1,94 @@
+Report for Institution Code MBML, Resource mbml-mamiferos
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 239
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Chile ; Times: 7
+	Country: Mexico ; Times: 1
+	Country: El Salvador ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 2
+	Date: 2018-07-12 ; Times: 2
+	Date: 2018-07-11 ; Times: 1
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-16 ; Times: 1
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-19 ; Times: 1
+	Date: 2018-07-27 ; Times: 2
+	Date: 2018-07-02 ; Times: 1
+	Date: 2018-07-31 ; Times: 1
+	Date: 2018-07-24 ; Times: 7
+	Date: 2018-07-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "leopardus wiedii" ; Times: 2
+	Query: "Phyllomys pattoni" ; Times: 2
+	Query: "jaguar" ; Times: 1
+	Query: "Juliomys" ; Times: 3
+	Query: "7111 genus:MYOTIS class:MAMMALIA" ; Times: 1
+	Query: "Cuniculus paca brazil" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "family:Echimyidae institutioncode:MBML" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "gbifdatasetid:2177d641-eeca-41c0-b6ab-0f1b2dcd9a79" ; Times: 1
+	Query: "phyllomys pattoni" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "chaetomys" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 2
+	Query: "Cabassous tatouay" ; Times: 1
+	Query: "Lonchophylla bokermanni" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 977 download events in this period)
+Total number of records downloaded: 355
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 2
+	Country: Chile ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 1
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-16 ; Times: 1
+	Date: 2018-07-30 ; Times: 2
+	Date: 2018-07-19 ; Times: 2
+	Date: 2018-07-26 ; Times: 1
+	Date: 2018-07-24 ; Times: 5
+	Date: 2018-07-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Glossophaga soricina" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "Chironectes" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "family:Echimyidae institutioncode:MBML" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "Anoura" ; Times: 1
+	Query: "Pygoderma bilabiatum" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "Santa Catarina" ; Times: 1
+	Query: "Vampyressa pusilla" ; Times: 1
+	Query: "Lonchophylla bokermanni" ; Times: 1
+	Query: "Nyctinomops laticaudatus" ; Times: 1
+
+
+End of report.
