@@ -1,0 +1,87 @@
+Report for Institution Code MBML, Resource mbml-mamiferos
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 34
+Number of records retrieved in searches: 148
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Brazil ; Times: 20
+	Country: France ; Times: 1
+	Country: Ecuador ; Times: 3
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-12 ; Times: 5
+	Date: 2018-06-15 ; Times: 2
+	Date: 2018-06-17 ; Times: 1
+	Date: 2018-06-18 ; Times: 4
+	Date: 2018-06-19 ; Times: 14
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-20 ; Times: 5
+	Date: 2018-06-09 ; Times: 1
+	Date: 2018-06-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cabassous" ; Times: 1
+	Query: "catalognumber:469 institutioncode:MBML" ; Times: 2
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "genus:euphractus" ; Times: 2
+	Query: "catalognumber:1619 institutioncode:MBML" ; Times: 1
+	Query: "genus:Diaemus" ; Times: 1
+	Query: "catalognumber:2680 institutioncode:MBML" ; Times: 1
+	Query: "catalognumber:1916 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:2580 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:3245 institutioncode:MBML" ; Times: 2
+	Query: "Brachyteles" ; Times: 2
+	Query: "catalognumber:2120 institutioncode:MBML" ; Times: 2
+	Query: "Hydrochaeris hydrochaeris" ; Times: 1
+	Query: "catalognumber:375 institutioncode:MBML" ; Times: 1
+	Query: "catalognumber:2777 institutioncode:MBML" ; Times: 1
+	Query: "family:Mustelidae institutioncode:MBML" ; Times: 1
+	Query: "JAGUAR" ; Times: 1
+	Query: "family:Erethizontidae institutioncode:MBML" ; Times: 1
+	Query: "catalognumber:2094 institutioncode:MBML" ; Times: 2
+	Query: "Tayassu pecari" ; Times: 3
+	Query: "catalognumber:1866 institutioncode:MBML" ; Times: 2
+	Query: "family:Dasypodidae institutioncode:MBML" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1169 download events in this period)
+Total number of records downloaded: 157
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 4
+	Country: Colombia ; Times: 2
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-06 ; Times: 1
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-13 ; Times: 2
+	Date: 2018-06-17 ; Times: 3
+	Date: 2018-06-20 ; Times: 2
+	Date: 2018-06-09 ; Times: 1
+	Date: 2018-06-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "family:Erethizontidae institutioncode:MBML" ; Times: 1
+	Query: "Marmosa murina" ; Times: 1
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "tayassu pecari pecari" ; Times: 3
+	Query: "Cavia aperea" ; Times: 1
+	Query: "vntype:specimen specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "Nyctinomops" ; Times: 1
+	Query: "family:Dasypodidae institutioncode:MBML" ; Times: 1
+	Query: "Gracilinanus agilis" ; Times: 1
+
+
+End of report.
