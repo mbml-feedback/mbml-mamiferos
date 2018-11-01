@@ -1,0 +1,120 @@
+Report for Institution Code MBML, Resource mbml-mamiferos
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 78
+Number of records retrieved in searches: 858
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Colombia ; Times: 14
+	Country: Mexico ; Times: 6
+	Country: El Salvador ; Times: 2
+	Country: United States ; Times: 36
+	Country: Peru ; Times: 1
+	Country: Ecuador ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 17
+	Date: 2018-10-05 ; Times: 6
+	Date: 2018-10-10 ; Times: 1
+	Date: 2018-10-26 ; Times: 5
+	Date: 2018-10-01 ; Times: 5
+	Date: 2018-10-24 ; Times: 3
+	Date: 2018-10-23 ; Times: 1
+	Date: 2018-10-29 ; Times: 3
+	Date: 2018-10-08 ; Times: 7
+	Date: 2018-10-13 ; Times: 2
+	Date: 2018-10-15 ; Times: 4
+	Date: 2018-10-30 ; Times: 3
+	Date: 2018-10-25 ; Times: 3
+	Date: 2018-10-31 ; Times: 13
+	Date: 2018-10-03 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:vivoi genus:Cerradomys" ; Times: 2
+	Query: "Procyon cancrivorus" ; Times: 2
+	Query: "specificepithet:rufescens genus:Rhagomys" ; Times: 2
+	Query: "cerdocyon thous" ; Times: 1
+	Query: "Trinomys" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 3
+	Query: "specificepithet:nigrita genus:Thaptomys" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "specificepithet:trinitatis genus:Oecomys" ; Times: 1
+	Query: "specificepithet:amblyonyx genus:Kannabateomys" ; Times: 4
+	Query: "genus:Chaetomys basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "Puma yagouaroundi" ; Times: 2
+	Query: "specificepithet:pictipes genus:Juliomys" ; Times: 1
+	Query: "Micronycteris hirsuta" ; Times: 1
+	Query: "catalognumber:820 institutioncode:MBML" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 2
+	Query: "genus:Chaetomys" ; Times: 1
+	Query: "specificepithet:subspinosus genus:Chaetomys basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "mamiferos" ; Times: 3
+	Query: "specificepithet:leporina genus:Dasyprocta" ; Times: 2
+	Query: "Leopardus tigrinus" ; Times: 5
+	Query: "specificepithet:subspinosus genus:Chaetomys" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "genus:Tamandua " ; Times: 2
+	Query: "specificepithet:armenica genus:Sicista" ; Times: 3
+	Query: "Vampyrum spectrum" ; Times: 3
+	Query: "specificepithet:mastacalis genus:Rhipidomys" ; Times: 1
+	Query: "didelphis aurita" ; Times: 1
+	Query: "galictis cuja" ; Times: 6
+	Query: "specificepithet:breviceps genus:Blarinomys" ; Times: 7
+	Query: "blarinomys" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "Vampyrum Spectrum" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 4
+	Query: "specificepithet:molossus Pallas genus:Molossus family:Molossidae" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 2
+	Query: "specificepithet:ossitenuis genus:Juliomys" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 1300 download events in this period)
+Total number of records downloaded: 562
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 17
+	Country: El Salvador ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 5
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 12
+	Date: 2018-10-05 ; Times: 1
+	Date: 2018-10-01 ; Times: 1
+	Date: 2018-10-23 ; Times: 1
+	Date: 2018-10-03 ; Times: 2
+	Date: 2018-10-22 ; Times: 2
+	Date: 2018-10-29 ; Times: 1
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-18 ; Times: 1
+	Date: 2018-10-13 ; Times: 2
+	Date: 2018-10-25 ; Times: 1
+	Date: 2018-10-10 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "galictis cuja" ; Times: 1
+	Query: "specificepithet:soricina genus:glossophaga" ; Times: 1
+	Query: "genus:Myotis" ; Times: 2
+	Query: "blarinomys" ; Times: 1
+	Query: "panthera onca" ; Times: 14
+	Query: "cerdocyon thous" ; Times: 1
+	Query: "Diphylla" ; Times: 1
+	Query: "order:Artiodactyla" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "specificepithet:subspinosus genus:Chaetomys basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Tadarida brasiliensis genus:Tadarida" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+
+
+End of report.
