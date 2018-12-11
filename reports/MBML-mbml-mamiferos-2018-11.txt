@@ -1,0 +1,219 @@
+Report for Institution Code MBML, Resource mbml-mamiferos
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 112
+Number of records retrieved in searches: 357
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 23
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 7
+	Country: Colombia ; Times: 10
+	Country: Ecuador ; Times: 63
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-18 ; Times: 1
+	Date: 2018-11-06 ; Times: 1
+	Date: 2018-11-12 ; Times: 4
+	Date: 2018-11-13 ; Times: 2
+	Date: 2018-11-03 ; Times: 19
+	Date: 2018-11-02 ; Times: 5
+	Date: 2018-11-15 ; Times: 4
+	Date: 2018-11-26 ; Times: 61
+	Date: 2018-11-30 ; Times: 5
+	Date: 2018-11-05 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Dasypus septemcinctus" ; Times: 1
+	Query: "catalognumber:2644 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:2592" ; Times: 1
+	Query: "cerdocyon thous" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "Procyon cancrivorus" ; Times: 13
+	Query: "specificepithet:novemcinctus genus:Dasypus year &gt;= 1936 year &lt;= 1946" ; Times: 1
+	Query: "Bradypus tridactylus" ; Times: 1
+	Query: "Caluromys philander" ; Times: 1
+	Query: "Micronycteris hirsuta" ; Times: 1
+	Query: "lophostoma brasiliense" ; Times: 1
+	Query: "Diaemus youngi" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "chrotopterus auritus" ; Times: 1
+	Query: "mazama gouazoubira" ; Times: 1
+	Query: "procyon cancrivorus" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "bradypus tridactylus" ; Times: 3
+	Query: "Leopardus tigrinus" ; Times: 10
+	Query: "specificepithet:novemcinctus genus:Dasypus year &gt;= 1926 year &lt;= 1950" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 63
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "bradypus torquatus" ; Times: 1
+	Query: "Procyon cancrivorus year" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 164 (out of 1719 download events in this period)
+Total number of records downloaded: 4857
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 25
+	Country: United States ; Times: 22
+	Country: Ecuador ; Times: 1
+	Country: Mexico ; Times: 116
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-18 ; Times: 1
+	Date: 2018-11-09 ; Times: 3
+	Date: 2018-11-07 ; Times: 2
+	Date: 2018-11-06 ; Times: 6
+	Date: 2018-11-05 ; Times: 22
+	Date: 2018-11-13 ; Times: 7
+	Date: 2018-11-03 ; Times: 1
+	Date: 2018-11-02 ; Times: 1
+	Date: 2018-11-01 ; Times: 1
+	Date: 2018-11-15 ; Times: 55
+	Date: 2018-11-27 ; Times: 2
+	Date: 2018-11-26 ; Times: 21
+	Date: 2018-11-14 ; Times: 25
+	Date: 2018-11-30 ; Times: 1
+	Date: 2018-11-11 ; Times: 3
+	Date: 2018-11-12 ; Times: 12
+	Date: 2018-11-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:bilobatum genus:Uroderma" ; Times: 1
+	Query: "genus:Potos flavus" ; Times: 1
+	Query: "genus:Vampyrum spectrum" ; Times: 1
+	Query: "specificepithet:nigricans genus:Myotis" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "genus:Panthera onca" ; Times: 1
+	Query: "genus:Chiroderma villosum" ; Times: 2
+	Query: "genus:Didelphis marsupialis" ; Times: 2
+	Query: "tamandua tetradactyla" ; Times: 1
+	Query: "genus:Uroderma bilobatum" ; Times: 1
+	Query: "genus:Eira barbara" ; Times: 1
+	Query: "genus:Sylvilagus brasiliensis" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 3
+	Query: "specificepithet:brasiliense genus:Lophostoma" ; Times: 1
+	Query: "genus:Peropteryx macrotis" ; Times: 1
+	Query: "genus:Nyctinomops laticaudatus" ; Times: 1
+	Query: "genus:Noctilio leporinus" ; Times: 1
+	Query: "genus:Myotis nigricans" ; Times: 1
+	Query: "genus:Chrotopterus auritus" ; Times: 2
+	Query: "genus:Leopardus wiedii" ; Times: 1
+	Query: "Panthera onca" ; Times: 3
+	Query: "specificepithet:leporinus genus:Noctilio" ; Times: 1
+	Query: "specificepithet:kappleri genus:Peropteryx" ; Times: 1
+	Query: "genus:Peropteryx kappleri" ; Times: 1
+	Query: "panthera onca" ; Times: 3
+	Query: "genus:Saccopteryx bilineata" ; Times: 1
+	Query: "genus:Diaemus youngi" ; Times: 2
+	Query: "procyon cancrivorus" ; Times: 1
+	Query: "specificepithet:macrotis genus:Peropteryx" ; Times: 2
+	Query: "genus:Desmodus rotundus" ; Times: 2
+	Query: "genus:Carollia perspicillata" ; Times: 2
+	Query: "specificepithet:pecari genus:Tayassu" ; Times: 1
+	Query: "specificepithet:flavus genus:Potos" ; Times: 1
+	Query: "genus:Molossus rufus" ; Times: 1
+	Query: "Procyon cancrivorus" ; Times: 1
+	Query: "Caluromys philander" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "puma" ; Times: 1
+	Query: "genus:Tayassu pecari" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "genus:Puma hassex:1" ; Times: 1
+	Query: "specificepithet:laticaudatus genus:Nyctinomops" ; Times: 1
+	Query: "genus:Lasiurus blossevillii" ; Times: 1
+	Query: "bradypus tridactylus" ; Times: 5
+	Query: "specificepithet:longicaudis genus:Lontra" ; Times: 1
+	Query: "specificepithet:rotundus genus:Desmodus" ; Times: 1
+	Query: "specificepithet:spectrum genus:Vampyrum" ; Times: 1
+	Query: "specificepithet:soricina genus:glossophaga year &gt;= 1950 year &lt;= 2018" ; Times: 1
+	Query: "genus:Lophostoma brasiliense" ; Times: 1
+	Query: "Chiroderma villosum" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 2
+	Query: "dasypus novemcinctus" ; Times: 5
+	Query: "bradypus variegatus" ; Times: 1
+	Query: "Nasua" ; Times: 1
+	Query: "procyon" ; Times: 3
+	Query: "mazama americana" ; Times: 1
+	Query: "specificepithet:youngi genus:Diaemus" ; Times: 1
+	Query: "genus:Lasiurus ega" ; Times: 1
+	Query: "specificepithet:blossevillii genus:Lasiurus" ; Times: 1
+	Query: "specificepithet:barbara genus:Eira" ; Times: 1
+	Query: "specificepithet:molossus genus:Molossus" ; Times: 1
+	Query: "Trachops cirrhosus" ; Times: 1
+	Query: "Micronycteris hirsuta" ; Times: 1
+	Query: "Saccopteryx bilineata" ; Times: 1
+	Query: "specificepithet:soricina genus:Glossophaga" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "mazama gouazoubira" ; Times: 1
+	Query: "genus:Lonchorhina aurita" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "specificepithet:americana genus:Mazama" ; Times: 1
+	Query: "genus:Mimon crenulatum" ; Times: 1
+	Query: "cerdocyon thous" ; Times: 1
+	Query: "genus:Pteronotus parnellii" ; Times: 1
+	Query: "genus:Puma concolor" ; Times: 2
+	Query: "Carollia perspicillata" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 2
+	Query: "Pteronotus parnellii" ; Times: 1
+	Query: "Cebus apella" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "genus:Lontra longicaudis" ; Times: 1
+	Query: "puma concolor" ; Times: 3
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "Rhynchonycteris naso" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "genus:Eumops glaucinus" ; Times: 1
+	Query: "Peropteryx macrotis" ; Times: 1
+	Query: "genus:Tadarida brasiliensis" ; Times: 1
+	Query: "Nyctinomops laticaudatus" ; Times: 2
+	Query: "genus:Mazama americana" ; Times: 1
+	Query: "dasyprocta leporina" ; Times: 1
+	Query: "genus:Molossus molossus" ; Times: 1
+	Query: "genus:puma" ; Times: 1
+	Query: "genus:Glossophaga soricina" ; Times: 1
+	Query: "Peropteryx kappleri" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida" ; Times: 1
+	Query: "genus:Sturnira lilium" ; Times: 1
+	Query: "Bradypus tridactylus" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Sylvilagus" ; Times: 1
+	Query: "specificepithet:crenulatum genus:Mimon" ; Times: 1
+	Query: "specificepithet:ega genus:Lasiurus" ; Times: 1
+	Query: "specificepithet:wiedii genus:Leopardus" ; Times: 1
+	Query: "Dasypus septemcinctus" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "genus:Artibeus lituratus" ; Times: 2
+	Query: "specificepithet:cirrhosus genus:Trachops" ; Times: 1
+	Query: "genus:Cuniculus paca" ; Times: 4
+	Query: "specificepithet:rufus genus:Molossus" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: "genus:Puma" ; Times: 1
+	Query: "genus:Trachops cirrhosus" ; Times: 1
+	Query: "specificepithet:paca genus:Cuniculus" ; Times: 1
+	Query: "specificepithet:glaucinus genus:Eumops" ; Times: 1
+	Query: "genus:Artibeus jamaicensis" ; Times: 2
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "genus:Dasypus novemcinctus" ; Times: 2
+	Query: "specificepithet:yagouaroundi genus:Puma" ; Times: 1
+	Query: "genus:Rhynchonycteris naso" ; Times: 1
+	Query: "genus:Diphylla ecaudata" ; Times: 1
+	Query: "specificepithet:soricina genus:glossophaga year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "Uroderma bilobatum" ; Times: 1
+	Query: "bradypus torquatus" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 2
+	Query: "potos flavus" ; Times: 2
+	Query: "specificepithet:naso genus:Rhynchonycteris" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera" ; Times: 1
+
+
+End of report.
