@@ -1,0 +1,100 @@
+Report for Institution Code MBML, Resource mbml-mamiferos
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 483
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 7
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 5
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-10 ; Times: 1
+	Date: 2019-02-05 ; Times: 1
+	Date: 2019-02-14 ; Times: 2
+	Date: 2019-02-25 ; Times: 3
+	Date: 2019-02-13 ; Times: 2
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-15 ; Times: 2
+	Date: 2019-02-07 ; Times: 8
+	Date: 2019-02-04 ; Times: 1
+	Date: 2019-02-16 ; Times: 2
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-18 ; Times: 5
+	Date: 2019-02-08 ; Times: 1
+	Date: 2019-02-09 ; Times: 3
+	Date: 2019-02-01 ; Times: 1
+	Date: 2019-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lophostoma brasiliense" ; Times: 1
+	Query: "genus:Lophostoma order:Chiroptera class:Mammalia institutioncode:MBML" ; Times: 2
+	Query: "cerdocyon thous" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "delomys" ; Times: 2
+	Query: "catalognumber:1688" ; Times: 2
+	Query: "Lontra longicaudis" ; Times: 5
+	Query: "sui" ; Times: 1
+	Query: "yagouaroundi" ; Times: 4
+	Query: "catalognumber:2242 institutioncode:MBML" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "catalognumber:1700" ; Times: 1
+	Query: "platyrrhinus lineatus" ; Times: 1
+	Query: "fieldnumber:1567" ; Times: 1
+	Query: "gracilinanus" ; Times: 1
+	Query: "Vampyrum" ; Times: 1
+	Query: "Callithrix jacchus mappable:1" ; Times: 1
+	Query: "Fazenda Intervales" ; Times: 2
+	Query: "specificepithet:youngi genus:Diaemus" ; Times: 1
+	Query: "mamíferos" ; Times: 3
+	Query: "Callithrix jacchus" ; Times: 1
+	Query: "specificepithet:blossevillii genus:Lasiurus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1227 download events in this period)
+Total number of records downloaded: 112
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Guatemala ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-04 ; Times: 1
+	Date: 2019-02-25 ; Times: 2
+	Date: 2019-02-13 ; Times: 2
+	Date: 2019-02-15 ; Times: 1
+	Date: 2019-02-14 ; Times: 5
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-08 ; Times: 1
+	Date: 2019-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Chironectes minimus" ; Times: 2
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "cerdocyon thous" ; Times: 1
+	Query: "micoureus" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "specificepithet:youngi genus:Diaemus" ; Times: 1
+	Query: "Panthera onca" ; Times: 6
+	Query: "Puma concolor" ; Times: 1
+
+
+End of report.
