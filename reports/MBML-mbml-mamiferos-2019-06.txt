@@ -1,0 +1,189 @@
+Report for Institution Code MBML, Resource mbml-mamiferos
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 130
+Number of records retrieved in searches: 1716
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Colombia ; Times: 7
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 97
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 5
+	Date: 2019-06-21 ; Times: 2
+	Date: 2019-06-05 ; Times: 4
+	Date: 2019-06-24 ; Times: 2
+	Date: 2019-06-18 ; Times: 1
+	Date: 2019-06-08 ; Times: 4
+	Date: 2019-06-06 ; Times: 4
+	Date: 2019-06-02 ; Times: 2
+	Date: 2019-06-04 ; Times: 3
+	Date: 2019-06-16 ; Times: 1
+	Date: 2019-06-11 ; Times: 58
+	Date: 2019-06-03 ; Times: 3
+	Date: 2019-06-10 ; Times: 34
+	Date: 2019-06-12 ; Times: 5
+	Date: 2019-06-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Brachyteles specificepithet:arachnoides" ; Times: 3
+	Query: "Caluromys philander year &gt;= 1969 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:paulensis genus:Marmosops" ; Times: 1
+	Query: "genus:Didelphis specificepithet:aurita" ; Times: 1
+	Query: "genus:Cuniculus specificepithet:paca" ; Times: 2
+	Query: "genus:Natalus specificepithet:stramineus" ; Times: 1
+	Query: "genus:Metachirus specificepithet:nudicaudatus" ; Times: 1
+	Query: "genus:Tamandua specificepithet:tetradactyla" ; Times: 1
+	Query: "genus:Diaemus specificepithet:youngi" ; Times: 1
+	Query: "genus:Artibeus specificepithet:obscurus" ; Times: 1
+	Query: "Panthera onca" ; Times: 4
+	Query: "genus:Rhynchonycteris specificepithet:naso" ; Times: 1
+	Query: "Histiotus" ; Times: 2
+	Query: "genus:Lontra specificepithet:longicaudis" ; Times: 2
+	Query: "genus:Callithrix specificepithet:sp." ; Times: 2
+	Query: "jaguar" ; Times: 4
+	Query: "genus:Diphylla specificepithet:ecaudata" ; Times: 1
+	Query: "Furipterus horrens" ; Times: 2
+	Query: "genus:Anoura specificepithet:caudifer" ; Times: 1
+	Query: "genus:Eumops specificepithet:perotis" ; Times: 1
+	Query: "genus:Eira specificepithet:barbara" ; Times: 1
+	Query: "genus:Furipterus specificepithet:horrens" ; Times: 1
+	Query: "genus:Gracilinanus specificepithet:agilis" ; Times: 1
+	Query: "genus:Dasypus specificepithet:novemcinctus" ; Times: 2
+	Query: "specificepithet:incanus genus:Marmosops" ; Times: 3
+	Query: "genus:Anoura specificepithet:geoffroyi" ; Times: 1
+	Query: "Callithrix aurita mappable:1" ; Times: 1
+	Query: "genus:Micoureus specificepithet:demerarae" ; Times: 1
+	Query: "Monodelphis americana" ; Times: 1
+	Query: "genus:Monodelphis specificepithet:sp." ; Times: 2
+	Query: "genus:Euphractus specificepithet:sexcinctus" ; Times: 2
+	Query: "Lontra longicaudis" ; Times: 2
+	Query: "genus:Micronycteris specificepithet:minuta" ; Times: 1
+	Query: "Tonatia bidens" ; Times: 1
+	Query: "genus:Marmosops specificepithet:incanus" ; Times: 1
+	Query: "genus:Noctilio specificepithet:leporinus" ; Times: 1
+	Query: "genus:Promops specificepithet:nasutus" ; Times: 1
+	Query: "genus:Alouatta specificepithet:sp." ; Times: 2
+	Query: "genus:Sturnira specificepithet:tildae" ; Times: 1
+	Query: "genus:Lonchorhina specificepithet:aurita" ; Times: 1
+	Query: "genus:Eumops specificepithet:glaucinus" ; Times: 1
+	Query: "genus:Bradypus specificepithet:sp." ; Times: 1
+	Query: "genus:Cebus specificepithet:apella" ; Times: 2
+	Query: "genus:Micronycteris specificepithet:hirsuta" ; Times: 1
+	Query: "genus:Uroderma specificepithet:magnirostrum" ; Times: 1
+	Query: "genus:Bradypus specificepithet:tridactylus " ; Times: 1
+	Query: "genus:Lophostoma specificepithet:brasiliense" ; Times: 1
+	Query: "Philander frenatus year &gt;= 1969 year &lt;= 2020" ; Times: 1
+	Query: "Lophostoma brasiliense" ; Times: 1
+	Query: "genus:Vampyrum family:Phyllostomidae" ; Times: 1
+	Query: "genus:Rhinophylla specificepithet:pumilio" ; Times: 1
+	Query: "genus:Chiroderma specificepithet:villosum" ; Times: 1
+	Query: "genus:Potos specificepithet:flavus" ; Times: 2
+	Query: "Mimon bennettii" ; Times: 1
+	Query: "genus:Phyllostomus specificepithet:elongatus" ; Times: 2
+	Query: "chrotopterus auritus" ; Times: 1
+	Query: "genus:Nasua specificepithet:nasua" ; Times: 1
+	Query: "genus:Hydrochoerus specificepithet:hydrochaeris" ; Times: 1
+	Query: "genus:Thaptomys specificepithet:nigrita" ; Times: 1
+	Query: "genus:Callithrix specificepithet:jacchus" ; Times: 2
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "genus:Gracilinanus specificepithet:microtarsus" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 2
+	Query: "rhagomys" ; Times: 1
+	Query: "genus:Platyrrhinus specificepithet:lineatus" ; Times: 1
+	Query: "genus:Peropteryx specificepithet:kappleri" ; Times: 1
+	Query: "genus:Callithrix specificepithet:geoffroyi" ; Times: 2
+	Query: "genus:Necromys specificepithet:lasiurus" ; Times: 1
+	Query: "genus:Saccopteryx specificepithet:leptura" ; Times: 1
+	Query: "catalognumber:2342" ; Times: 1
+	Query: "genus:Nectomys specificepithet:squamipes" ; Times: 1
+	Query: "genus:Peropteryx specificepithet:macrotis" ; Times: 1
+	Query: "chiroptera brasil" ; Times: 2
+	Query: "genus:Micronycteris specificepithet:megalotis" ; Times: 1
+	Query: "chiroptera minas gerais" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:ega" ; Times: 1
+	Query: "genus:Bradypus specificepithet:variegatus" ; Times: 1
+	Query: "genus:Mimon specificepithet:crenulatum" ; Times: 1
+	Query: "genus:Nyctinomops specificepithet:laticaudatus" ; Times: 1
+	Query: "Diaemus youngi" ; Times: 1
+	Query: "genus:Chrotopterus specificepithet:auritus" ; Times: 1
+	Query: "Monodelphis scalops" ; Times: 1
+	Query: "genus:Molossus specificepithet:rufus" ; Times: 1
+	Query: "genus:Trachops specificepithet:cirrhosus" ; Times: 1
+	Query: "genus:Marmosa specificepithet:murina" ; Times: 1
+	Query: "genus:Chaetomys specificepithet:subspinosus" ; Times: 1
+	Query: "Galictis cuja" ; Times: 3
+	Query: "genus:Didelphis specificepithet:albiventris" ; Times: 1
+	Query: "genus:Procyon specificepithet:cancrivorus" ; Times: 2
+	Query: "genus:Chironectes specificepithet:minimus" ; Times: 2
+	Query: "genus:Vampyressa specificepithet:pusilla" ; Times: 1
+	Query: "genus:Artibeus specificepithet:fimbriatus" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 3
+	Query: "genus:Lonchophylla specificepithet:mordax" ; Times: 1
+	Query: "genus:Pygoderma specificepithet:bilabiatum" ; Times: 1
+	Query: "genus:Callicebus specificepithet:personatus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 1182 download events in this period)
+Total number of records downloaded: 392
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: United States ; Times: 7
+	Country: Mexico ; Times: 9
+	Country: Peru ; Times: 2
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 3
+	Date: 2019-06-24 ; Times: 3
+	Date: 2019-06-08 ; Times: 4
+	Date: 2019-06-30 ; Times: 1
+	Date: 2019-06-07 ; Times: 2
+	Date: 2019-06-04 ; Times: 4
+	Date: 2019-06-05 ; Times: 2
+	Date: 2019-06-11 ; Times: 10
+	Date: 2019-06-13 ; Times: 1
+	Date: 2019-06-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Vampyrum family:Phyllostomidae" ; Times: 1
+	Query: "Philander frenatus year &gt;= 1969 year &lt;= 2020" ; Times: 1
+	Query: "Phyllostomus discolor" ; Times: 1
+	Query: "Caluromys philander year &gt;= 1969 year &lt;= 2020" ; Times: 1
+	Query: "chiroptera minas gerais" ; Times: 1
+	Query: "Marmosa murina year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "Lophostoma brasiliense" ; Times: 1
+	Query: "Phyllostomus hastatus" ; Times: 1
+	Query: "Micoureus demerarae year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "Trachops cirrhosus" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "Mimon bennettii" ; Times: 1
+	Query: "Monodelphis americana" ; Times: 1
+	Query: "Diaemus youngi" ; Times: 1
+	Query: "chrotopterus auritus" ; Times: 1
+	Query: "tamandua tetradactyla year &gt;= 1969 year &lt;= 2020" ; Times: 1
+	Query: "Monodelphis scalops" ; Times: 1
+	Query: "Phyllostomus elongatus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Tonatia bidens" ; Times: 1
+	Query: "Marmosa murina" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 2
+	Query: "jaguar" ; Times: 2
+	Query: "Didelphis albiventris" ; Times: 1
+	Query: "Conepatus chinga" ; Times: 1
+	Query: "Metachirus nudicaudatus year &gt;= 1969 year &lt;= 2020" ; Times: 1
+	Query: "Nyctinomops laticaudatus" ; Times: 1
+
+
+End of report.
