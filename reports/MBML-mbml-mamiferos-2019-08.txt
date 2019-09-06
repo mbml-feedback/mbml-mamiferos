@@ -1,0 +1,185 @@
+Report for Institution Code MBML, Resource mbml-mamiferos
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 122
+Number of records retrieved in searches: 1137
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 68
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: United States ; Times: 13
+	Country: United Kingdom ; Times: 25
+	Country: Peru ; Times: 4
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 7
+	Date: 2019-08-09 ; Times: 2
+	Date: 2019-08-11 ; Times: 1
+	Date: 2019-08-10 ; Times: 1
+	Date: 2019-08-19 ; Times: 7
+	Date: 2019-08-02 ; Times: 1
+	Date: 2019-08-03 ; Times: 1
+	Date: 2019-08-13 ; Times: 3
+	Date: 2019-08-05 ; Times: 27
+	Date: 2019-08-28 ; Times: 2
+	Date: 2019-08-29 ; Times: 1
+	Date: 2019-08-26 ; Times: 30
+	Date: 2019-08-04 ; Times: 2
+	Date: 2019-08-24 ; Times: 31
+	Date: 2019-08-22 ; Times: 2
+	Date: 2019-08-30 ; Times: 1
+	Date: 2019-08-20 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "Callithrix geoffroyi" ; Times: 1
+	Query: "Phyllomys pattoni" ; Times: 1
+	Query: "Didelphis albiventris" ; Times: 1
+	Query: "vntype:specimen specificepithet:youngi genus:Diaemus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "vntype:specimen specificepithet:spectrum genus:Vampyrum year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Cerdocyon thous mappable:1" ; Times: 2
+	Query: "Galictis cuja" ; Times: 4
+	Query: "Callithrix penicillata" ; Times: 1
+	Query: "order:Primates stateprovince:&#34;Espirito Santo&#34;" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "Mazama gouazoubira" ; Times: 1
+	Query: "delomys" ; Times: 1
+	Query: "vntype:specimen specificepithet:brasiliense genus:Lophostoma year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Eira barbara mappable:1" ; Times: 2
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Bradypus tridactylus" ; Times: 1
+	Query: "Saccopteryx leptura" ; Times: 1
+	Query: "Dasypus septemcinctus mappable:1" ; Times: 2
+	Query: "Saccopteryx bilineata" ; Times: 1
+	Query: "Cabassous tatouay mappable:1" ; Times: 2
+	Query: "co2" ; Times: 1
+	Query: "Brachyteles arachnoides" ; Times: 1
+	Query: "Tamandua tetradactyla mappable:1" ; Times: 2
+	Query: "Cavia aperea mappable:1" ; Times: 2
+	Query: "Trinomys paratus" ; Times: 1
+	Query: "Procyon cancrivorus mappable:1" ; Times: 2
+	Query: "Anoura caudifer" ; Times: 1
+	Query: "Dasypus septemcinctus" ; Times: 1
+	Query: "chrotopterus auritus" ; Times: 1
+	Query: "Mazama gouazoubira mappable:1" ; Times: 2
+	Query: "Sylvilagus brasiliensis mappable:1" ; Times: 2
+	Query: "Nasua nasua mappable:1" ; Times: 2
+	Query: "locality:Capim" ; Times: 1
+	Query: "Gracilinanus agilis mappable:1" ; Times: 2
+	Query: "Puma yagouaroundi mappable:1" ; Times: 2
+	Query: "Lophostoma brasiliense" ; Times: 1
+	Query: "Marmosa murina mappable:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:auritus genus:Chrotopterus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Panthera onca" ; Times: 10
+	Query: "Tonatia bidens" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris mappable:1" ; Times: 2
+	Query: "Lontra longicaudis mappable:1" ; Times: 2
+	Query: "Cebus apella mappable:1" ; Times: 2
+	Query: "class:Mammalia fieldnumber:1380" ; Times: 1
+	Query: "Juliomys" ; Times: 2
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 1
+	Query: "Kannabateomys amblyonyx" ; Times: 1
+	Query: "diaemus youngi" ; Times: 1
+	Query: "Marmosa murina" ; Times: 1
+	Query: "Micoureus demerarae mappable:1" ; Times: 2
+	Query: "Leopardus tigrinus mappable:1" ; Times: 2
+	Query: "Mazama americana" ; Times: 1
+	Query: "lophostoma brasiliense" ; Times: 1
+	Query: "Sturnira tildae" ; Times: 1
+	Query: "Micoureus demerarae" ; Times: 1
+	Query: "Tamandua tetradactyla year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "Mazama americana mappable:1" ; Times: 2
+	Query: "Oligoryzomys nigripes mappable:1" ; Times: 2
+	Query: "Panthera onca mappable:1" ; Times: 1
+	Query: "Metachirus nudicaudatus mappable:1" ; Times: 2
+	Query: "Didelphis albiventris mappable:1" ; Times: 2
+	Query: "Cuniculus paca mappable:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:leptura genus:Saccopteryx year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Caluromys philander mappable:1" ; Times: 2
+	Query: "order:Chiroptera stateprovince:&#34;Minas Gerais&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:aurita genus:Lonchorhina year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "Chironectes minimus mappable:1" ; Times: 2
+	Query: "Cavia aperea" ; Times: 1
+	Query: "Philander frenatus" ; Times: 1
+	Query: "Nectomys squamipes mappable:1" ; Times: 2
+	Query: "Tayassu pecari mappable:1" ; Times: 2
+	Query: "Galictis cuja mappable:1" ; Times: 2
+	Query: "2315 mam" ; Times: 1
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "Callithrix jacchus" ; Times: 1
+	Query: "Leopardus wiedii mappable:1" ; Times: 2
+	Query: "Alouatta guariba" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 1034 download events in this period)
+Total number of records downloaded: 677
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: United States ; Times: 5
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 22
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-12 ; Times: 2
+	Date: 2019-08-19 ; Times: 15
+	Date: 2019-08-15 ; Times: 1
+	Date: 2019-08-23 ; Times: 3
+	Date: 2019-08-02 ; Times: 1
+	Date: 2019-08-13 ; Times: 1
+	Date: 2019-08-05 ; Times: 4
+	Date: 2019-08-09 ; Times: 2
+	Date: 2019-08-27 ; Times: 1
+	Date: 2019-08-22 ; Times: 4
+	Date: 2019-08-30 ; Times: 1
+	Date: 2019-08-20 ; Times: 4
+	Date: 2019-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:cirrhosus genus:Trachops year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Lophostoma brasiliense" ; Times: 1
+	Query: "lonchorhina aurita" ; Times: 1
+	Query: "vntype:specimen specificepithet:spectrum genus:Vampyrum year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "uroderma bilobatum" ; Times: 1
+	Query: "chrotopterus auritus" ; Times: 1
+	Query: "mimon crenulatum" ; Times: 1
+	Query: "delomys" ; Times: 3
+	Query: "vntype:specimen specificepithet:brasiliense genus:Lophostoma year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "lasiurus blossevillii" ; Times: 1
+	Query: "lophostoma brasiliense" ; Times: 1
+	Query: "uroderma magnirostrum" ; Times: 1
+	Query: "vntype:specimen specificepithet:youngi genus:Diaemus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "order:Primates stateprovince:&#34;Espirito Santo&#34;" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "Potos" ; Times: 1
+	Query: "lasiurus ega" ; Times: 3
+	Query: "vntype:specimen specificepithet:auritus genus:Chrotopterus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "EIRA BARBARA" ; Times: 1
+	Query: "vntype:specimen specificepithet:leptura genus:Saccopteryx year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Juliomys" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "diphylla ecaudata" ; Times: 1
+	Query: "diaemus youngi" ; Times: 1
+	Query: "phyllostomus discolor" ; Times: 1
+	Query: "Tamandua tetradactyla year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "vntype:specimen specificepithet:aurita genus:Lonchorhina year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "anoura geoffroyi" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Minas Gerais&#34;" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "vntype:specimen specificepithet:naso genus:Rhynchonycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Nasua" ; Times: 1
+	Query: "chiroderma villosum" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+
+
+End of report.
