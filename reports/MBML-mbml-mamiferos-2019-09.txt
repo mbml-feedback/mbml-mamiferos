@@ -1,0 +1,96 @@
+Report for Institution Code MBML, Resource mbml-mamiferos
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 62
+Number of records retrieved in searches: 433
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 45
+	Country: United States ; Times: 12
+	Country: Ecuador ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-23 ; Times: 3
+	Date: 2019-09-17 ; Times: 2
+	Date: 2019-09-10 ; Times: 2
+	Date: 2019-09-11 ; Times: 2
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-26 ; Times: 3
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-18 ; Times: 3
+	Date: 2019-09-19 ; Times: 1
+	Date: 2019-09-03 ; Times: 3
+	Date: 2019-09-02 ; Times: 16
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-25 ; Times: 10
+	Date: 2019-09-24 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "Brachyteles arachnoides mappable:1" ; Times: 1
+	Query: "Juliomys ossitenuis" ; Times: 6
+	Query: "Cebus apella mappable:1" ; Times: 1
+	Query: "SUI" ; Times: 1
+	Query: "Callithrix aurita mappable:1" ; Times: 1
+	Query: "Juliomys pictipes" ; Times: 7
+	Query: "sui" ; Times: 1
+	Query: "Callicebus personatus mappable:1" ; Times: 1
+	Query: "Callithrix flaviceps mappable:1" ; Times: 1
+	Query: "Callithrix penicillata mappable:1" ; Times: 1
+	Query: "Juliomys" ; Times: 2
+	Query: "Callithrix geoffroyi mappable:1" ; Times: 1
+	Query: "Panthera onca" ; Times: 10
+	Query: "lontra longicaudis" ; Times: 2
+	Query: "Leontopithecus chrysomelas mappable:1" ; Times: 6
+	Query: "leopardus tigrinus" ; Times: 12
+	Query: "jaguar" ; Times: 1
+	Query: "Alouatta guariba mappable:1" ; Times: 1
+	Query: "Callithrix jacchus mappable:1" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 2
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "Brachyteles hypoxanthus mappable:1" ; Times: 1
+	Query: "order:Rodentia country:&#34;Brasil&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1073 download events in this period)
+Total number of records downloaded: 53
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United States ; Times: 2
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-20 ; Times: 2
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-17 ; Times: 1
+	Date: 2019-09-26 ; Times: 4
+	Date: 2019-09-02 ; Times: 7
+	Date: 2019-09-07 ; Times: 2
+	Date: 2019-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mazama americana" ; Times: 1
+	Query: "Holochilus" ; Times: 1
+	Query: "Juliomys ossitenuis" ; Times: 2
+	Query: "Juliomys" ; Times: 1
+	Query: "Juliomys pictipes" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "lasiurus ega" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "eumops perotis" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "genus:Holochilus" ; Times: 1
+
+
+End of report.
