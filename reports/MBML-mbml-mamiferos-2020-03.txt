@@ -1,0 +1,132 @@
+Report for Institution Code MBML, Resource mbml-mamiferos
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 76
+Number of records retrieved in searches: 769
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 16
+	Country: Mexico ; Times: 52
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-01 ; Times: 2
+	Date: 2020-03-19 ; Times: 6
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-02 ; Times: 1
+	Date: 2020-03-24 ; Times: 2
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-18 ; Times: 34
+	Date: 2020-03-20 ; Times: 13
+	Date: 2020-03-05 ; Times: 2
+	Date: 2020-03-09 ; Times: 3
+	Date: 2020-03-11 ; Times: 1
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-10 ; Times: 1
+	Date: 2020-03-04 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:2514" ; Times: 1
+	Query: "Lophostoma brasiliense" ; Times: 2
+	Query: "philodendron" ; Times: 1
+	Query: "Juliomys ossitenuis" ; Times: 1
+	Query: "Uroderma magnirostrum" ; Times: 1
+	Query: "Lasiurus ega" ; Times: 2
+	Query: "Histiotus velatus" ; Times: 1
+	Query: "Natalus stramineus" ; Times: 1
+	Query: "Mimon crenulatum" ; Times: 2
+	Query: "Peropteryx kappleri" ; Times: 1
+	Query: "Trachops cirrhosus" ; Times: 1
+	Query: "callithrix jacchus" ; Times: 4
+	Query: "Micronycteris minuta" ; Times: 2
+	Query: "Lonchophylla bokermanni" ; Times: 2
+	Query: "Leontopithecus chrysomelas" ; Times: 2
+	Query: "Mimon bennettii" ; Times: 4
+	Query: "juliomys ossitenuis" ; Times: 2
+	Query: "Platyrrhinus lineatus" ; Times: 1
+	Query: "Anoura caudifer" ; Times: 1
+	Query: "Micronycteris megalotis" ; Times: 2
+	Query: "Artibeus fimbriatus" ; Times: 1
+	Query: "Diaemus youngi" ; Times: 1
+	Query: "LEOPARDUS WIEDII" ; Times: 1
+	Query: "Micronycteris hirsuta" ; Times: 2
+	Query: "Phyllostomus elongatus" ; Times: 1
+	Query: "Eumops glaucinus" ; Times: 1
+	Query: "Tonatia bidens" ; Times: 1
+	Query: "Platyrrhinus recifinus" ; Times: 1
+	Query: "Jaguar" ; Times: 1
+	Query: "Saccopteryx leptura" ; Times: 1
+	Query: "Juliomys" ; Times: 2
+	Query: "Promops nasutus" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "rhagomys" ; Times: 2
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "Chiroderma villosum" ; Times: 1
+	Query: "Sturnira tildae" ; Times: 1
+	Query: "Vampyressa pusilla" ; Times: 1
+	Query: "Lonchophylla mordax" ; Times: 2
+	Query: "leopardus tigrinus" ; Times: 3
+	Query: "Chiroderma doriae" ; Times: 1
+	Query: "Lonchorhina aurita" ; Times: 2
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "juliomys pictipes" ; Times: 1
+	Query: "Pygoderma bilabiatum" ; Times: 1
+	Query: "Peropteryx macrotis" ; Times: 1
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "Furipterus horrens" ; Times: 1
+	Query: "Eumops perotis" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 2
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "Diphylla ecaudata" ; Times: 1
+	Query: "Rhinophylla pumilio" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 853 download events in this period)
+Total number of records downloaded: 356
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Brazil ; Times: 10
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-21 ; Times: 3
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-22 ; Times: 2
+	Date: 2020-03-18 ; Times: 1
+	Date: 2020-03-04 ; Times: 1
+	Date: 2020-03-14 ; Times: 1
+	Date: 2020-03-11 ; Times: 1
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-13 ; Times: 2
+	Date: 2020-03-10 ; Times: 2
+	Date: 2020-03-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "Juliomys" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "LEOPARDUS WIEDII" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "Gracilinanus agilis" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 2
+	Query: "bradypus variegatus" ; Times: 3
+
+
+End of report.
