@@ -1,0 +1,124 @@
+Report for Institution Code MBML, Resource mbml-mamiferos
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 130
+Number of records retrieved in searches: 1152
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United Kingdom ; Times: 87
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: France ; Times: 1
+	Country: United States ; Times: 4
+	Country: Austria ; Times: 13
+	Country: Peru ; Times: 8
+	Country: Switzerland ; Times: 5
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-18 ; Times: 4
+	Date: 2020-04-11 ; Times: 1
+	Date: 2020-04-17 ; Times: 15
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-07 ; Times: 52
+	Date: 2020-04-23 ; Times: 1
+	Date: 2020-04-21 ; Times: 25
+	Date: 2020-04-26 ; Times: 8
+	Date: 2020-04-27 ; Times: 2
+	Date: 2020-04-24 ; Times: 1
+	Date: 2020-04-03 ; Times: 18
+	Date: 2020-04-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 4
+	Query: "Cabassous" ; Times: 1
+	Query: "Callithrix geoffroyi" ; Times: 7
+	Query: "Phyllomys pattoni" ; Times: 3
+	Query: "genus:nyctinomops specificepithet:laticaudatus" ; Times: 1
+	Query: "Callithrix penicillata" ; Times: 2
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "Hylaeamys megacephalus" ; Times: 3
+	Query: "Mazama gouazoubira" ; Times: 5
+	Query: "Puma yagouaroundi" ; Times: 4
+	Query: "genus:Artibeus specificepithet:lituratus year&gt;2000" ; Times: 1
+	Query: "cabassous" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:ega" ; Times: 1
+	Query: "co2" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 7
+	Query: "lasiurus ega" ; Times: 4
+	Query: "specificepithet:laticaudatus genus:Nyctinomops" ; Times: 1
+	Query: "genus:Molossus specificepithet:rufus" ; Times: 1
+	Query: "Artibeus obscurus" ; Times: 9
+	Query: "Micoureus demerarae" ; Times: 2
+	Query: "Galictis cuja" ; Times: 1
+	Query: "Brachyteles arachnoides" ; Times: 3
+	Query: "Panthera onca" ; Times: 4
+	Query: "lontra longicaudis" ; Times: 2
+	Query: "Mazama americana" ; Times: 3
+	Query: "genus:Platyrrhinus specificepithet:lineatus" ; Times: 2
+	Query: "Sphiggurus insidiosus" ; Times: 3
+	Query: "Vampyressa pusilla" ; Times: 4
+	Query: "specificepithet:laticaudatus genus:Nyctinomops OR Tadarida" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 7
+	Query: "Alouatta guariba" ; Times: 2
+	Query: "T. tetradactyla" ; Times: 4
+	Query: "Pygoderma bilabiatum" ; Times: 4
+	Query: "Leopardus wiedii" ; Times: 2
+	Query: "Tayassu pecari" ; Times: 8
+	Query: "Lasiurus blossevillii" ; Times: 4
+	Query: "Hydrochoerus hydrochaeris" ; Times: 8
+	Query: "Callithrix jacchus" ; Times: 2
+	Query: "genus:nyctinomops specificepithet:laticaudatus month&gt;=1" ; Times: 1
+	Query: "genus:anoura year&gt;=2006 " ; Times: 2
+	Query: "genus:Pygoderma specificepithet:bilabiatum" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1171 download events in this period)
+Total number of records downloaded: 736
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Argentina ; Times: 7
+	Country: India ; Times: 1
+	Country: Austria ; Times: 4
+	Country: Costa Rica ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-17 ; Times: 4
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-14 ; Times: 1
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-20 ; Times: 2
+	Date: 2020-04-21 ; Times: 1
+	Date: 2020-04-26 ; Times: 1
+	Date: 2020-04-27 ; Times: 1
+	Date: 2020-04-25 ; Times: 4
+	Date: 2020-04-28 ; Times: 4
+	Date: 2020-04-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:nyctinomops specificepithet:laticaudatus" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "genus:Myotis specificepithet:nigricans" ; Times: 1
+	Query: "genus:Molossus specificepithet:rufus" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Sylvilagus" ; Times: 1
+	Query: "sciurus" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera" ; Times: 2
+	Query: "genus:artibeus specificepithet:lituratus" ; Times: 1
+	Query: "Puma concolor" ; Times: 7
+	Query: "vntype:specimen family:Echimyidae" ; Times: 1
+	Query: "vntype:specimen genus:Lontra" ; Times: 1
+	Query: "vntype:specimen family:Tayassuidae" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "vntype:specimen family:Caviidae" ; Times: 1
+
+
+End of report.
