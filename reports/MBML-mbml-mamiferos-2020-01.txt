@@ -1,0 +1,122 @@
+Report for Institution Code MBML, Resource mbml-mamiferos
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 134
+Number of records retrieved in searches: 1077
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: United Kingdom ; Times: 98
+	Country: Brazil ; Times: 10
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-17 ; Times: 1
+	Date: 2020-01-07 ; Times: 1
+	Date: 2020-01-06 ; Times: 2
+	Date: 2020-01-14 ; Times: 41
+	Date: 2020-01-20 ; Times: 4
+	Date: 2020-01-16 ; Times: 2
+	Date: 2020-01-22 ; Times: 11
+	Date: 2020-01-10 ; Times: 3
+	Date: 2020-01-24 ; Times: 2
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-13 ; Times: 55
+	Date: 2020-01-21 ; Times: 9
+	Date: 2020-01-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Lophostoma brasiliense" ; Times: 1
+	Query: "vntype:specimen genus:furipterus" ; Times: 1
+	Query: "chiroderma doriae vntype:specimen" ; Times: 1
+	Query: "Cerdocyon thous mappable:1" ; Times: 4
+	Query: "Leopardus sp. mappable:1" ; Times: 3
+	Query: "Eira barbara mappable:1" ; Times: 3
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 1
+	Query: "Chrotopterus auritus basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Oligoryzomys nigripes mappable:1" ; Times: 2
+	Query: "artibeus fimbriatus vntype:specimen" ; Times: 1
+	Query: "Cabassous tatouay mappable:1" ; Times: 4
+	Query: "Bradypus variegatus Schinz" ; Times: 1
+	Query: "Cavia aperea mappable:1" ; Times: 4
+	Query: "Procyon cancrivorus mappable:1" ; Times: 2
+	Query: "Cavia sp. mappable:1" ; Times: 4
+	Query: "mimon bennettii basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Mazama gouazoubira mappable:1" ; Times: 2
+	Query: "Sylvilagus brasiliensis mappable:1" ; Times: 2
+	Query: "family:Phyllostomidae country:&#34;Brasil&#34;" ; Times: 2
+	Query: "Didelphis albiventris mappable:1" ; Times: 3
+	Query: "Panthera onca" ; Times: 11
+	Query: "Galictis cuja mappable:1" ; Times: 3
+	Query: "Callithrix penicillata mappable:1" ; Times: 4
+	Query: "mimon bennettii" ; Times: 1
+	Query: "Lontra longicaudis mappable:1" ; Times: 3
+	Query: "Hydrochoerus hydrochaeris mappable:1" ; Times: 3
+	Query: "Tamandua tetradactyla mappable:1" ; Times: 2
+	Query: "Rhipidomys mastacalis" ; Times: 3
+	Query: "Potos flavus mappable:1" ; Times: 2
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "Leopardus tigrinus mappable:1" ; Times: 3
+	Query: "Felidae sp. mappable:1" ; Times: 2
+	Query: "Mazama sp. mappable:1" ; Times: 2
+	Query: "Panthera onca mappable:1" ; Times: 3
+	Query: "pygoderma bilabiatum basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Didelphis aurita mappable:1" ; Times: 3
+	Query: "Kannabateomys amblyonyx mappable:1" ; Times: 3
+	Query: "Mazama americana mappable:1" ; Times: 2
+	Query: "platyrrhinus recifinus" ; Times: 5
+	Query: "Metachirus nudicaudatus mappable:1" ; Times: 2
+	Query: "Cuniculus paca mappable:1" ; Times: 3
+	Query: "Alouatta guariba mappable:1" ; Times: 4
+	Query: "Callithrix jacchus mappable:1" ; Times: 4
+	Query: "furipterus" ; Times: 1
+	Query: "Dasyprocta sp. mappable:1" ; Times: 3
+	Query: "Tayassu pecari mappable:1" ; Times: 2
+	Query: "Nasua nasua mappable:1" ; Times: 2
+	Query: "Callithrix aurita mappable:1" ; Times: 4
+	Query: "Callithrix jacchus" ; Times: 1
+	Query: "Philander frenatus mappable:1" ; Times: 2
+	Query: "Leopardus wiedii mappable:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1584 download events in this period)
+Total number of records downloaded: 1713
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-02 ; Times: 2
+	Date: 2020-01-22 ; Times: 4
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-31 ; Times: 1
+	Date: 2020-01-11 ; Times: 3
+	Date: 2020-01-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "platyrrhinus recifinus" ; Times: 1
+	Query: "Bradypus variegatus Schinz" ; Times: 1
+	Query: "specificepithet:blossevillii genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "furipterus" ; Times: 1
+	Query: "Diphylla ecaudata" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "vntype:specimen genus:furipterus" ; Times: 1
+	Query: "family:Phyllostomidae country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "Eumops perotis" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "specificepithet:ega genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "Callithrix jacchus" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+
+
+End of report.
