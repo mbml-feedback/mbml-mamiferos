@@ -1,0 +1,66 @@
+Report for Institution Code MBML, Resource mbml-mamiferos
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 56
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Brazil ; Times: 4
+	Country: Germany ; Times: 2
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-04 ; Times: 2
+	Date: 2019-12-02 ; Times: 1
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-09 ; Times: 1
+	Date: 2019-12-10 ; Times: 2
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-13 ; Times: 3
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-15 ; Times: 2
+	Date: 2019-12-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:1129" ; Times: 1
+	Query: "Juliomys ossitenuis" ; Times: 1
+	Query: "genus:Rhagomys" ; Times: 2
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "NA mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 2
+	Query: "rhagomys" ; Times: 1
+	Query: "specificepithet:cursor genus:Akodon" ; Times: 1
+	Query: "specificepithet:yagouaroundi" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "Tonatia bidens" ; Times: 2
+	Query: "Sphiggurus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 596 download events in this period)
+Total number of records downloaded: 20
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Paraguay ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-10 ; Times: 2
+	Date: 2019-12-04 ; Times: 4
+	Date: 2019-12-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+
+
+End of report.
