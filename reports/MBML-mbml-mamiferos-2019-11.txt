@@ -1,0 +1,115 @@
+Report for Institution Code MBML, Resource mbml-mamiferos
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 107
+Number of records retrieved in searches: 785
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Denmark ; Times: 75
+	Country: Brazil ; Times: 10
+	Country: Mexico ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 4
+	Date: 2019-11-21 ; Times: 2
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-25 ; Times: 1
+	Date: 2019-11-08 ; Times: 3
+	Date: 2019-11-27 ; Times: 2
+	Date: 2019-11-06 ; Times: 13
+	Date: 2019-11-07 ; Times: 10
+	Date: 2019-11-04 ; Times: 5
+	Date: 2019-11-05 ; Times: 3
+	Date: 2019-11-03 ; Times: 8
+	Date: 2019-11-01 ; Times: 2
+	Date: 2019-11-15 ; Times: 40
+	Date: 2019-11-10 ; Times: 1
+	Date: 2019-11-26 ; Times: 3
+	Date: 2019-11-12 ; Times: 8
+	Date: 2019-11-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Phyllomys pattoni" ; Times: 1
+	Query: "Oligoryzomys nigripes" ; Times: 1
+	Query: "civit" ; Times: 1
+	Query: "Cuniculus paca" ; Times: 8
+	Query: "Oecomys trinitatis" ; Times: 2
+	Query: "Hylaeamys megacephalus" ; Times: 1
+	Query: "Euryoryzomys russatus" ; Times: 2
+	Query: "Akodon aerosus" ; Times: 1
+	Query: "Brachyteles hypoxanthus" ; Times: 19
+	Query: "Cavia aperea" ; Times: 1
+	Query: "Trinomys gratiosus" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 10
+	Query: "Dasyprocta leporina" ; Times: 2
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "TAYASSU PECARI" ; Times: 1
+	Query: "Rhagomys rufescens" ; Times: 1
+	Query: "Panthera onca" ; Times: 3
+	Query: "Trinomys iheringi" ; Times: 1
+	Query: "Didelphis aurita" ; Times: 2
+	Query: "Cavia fulgida" ; Times: 2
+	Query: "Chironectes minimus" ; Times: 3
+	Query: "leopardus tigrinus" ; Times: 2
+	Query: "Rhipidomys mastacalis" ; Times: 1
+	Query: "Sooretamys angouya" ; Times: 1
+	Query: "Kannabateomys amblyonyx" ; Times: 1
+	Query: "Juliomys pictipes" ; Times: 1
+	Query: "Blarinomys breviceps" ; Times: 4
+	Query: "Delomys dorsalis" ; Times: 2
+	Query: "Histiotus" ; Times: 2
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "specificepithet:mastacalis genus:Rhipidomys" ; Times: 1
+	Query: "Necromys lasiurus" ; Times: 1
+	Query: "Delomys sublineatus" ; Times: 2
+	Query: "Marmosa murina" ; Times: 2
+	Query: "Chaetomys subspinosus" ; Times: 2
+	Query: "order:Rodentia stateprovince:&#34;Minas Gerais&#34;" ; Times: 1
+	Query: "jaguar" ; Times: 3
+	Query: "Cerradomys subflavus" ; Times: 2
+	Query: "Thaptomys nigrita" ; Times: 1
+	Query: "Trinomys paratus" ; Times: 1
+	Query: "catalognumber:942" ; Times: 1
+	Query: "Oxymycterus hispidus" ; Times: 1
+	Query: "Akodon cursor" ; Times: 1
+	Query: "specificepithet:cursor genus:Akodon" ; Times: 2
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "chrotopterus basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Nectomys squamipes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1367 download events in this period)
+Total number of records downloaded: 137
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Brazil ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 1
+	Date: 2019-11-26 ; Times: 1
+	Date: 2019-11-09 ; Times: 1
+	Date: 2019-11-07 ; Times: 5
+	Date: 2019-11-27 ; Times: 1
+	Date: 2019-11-10 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 3
+	Query: "Holochilus" ; Times: 1
+	Query: "Marmosa murina" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 2
+	Query: "TAYASSU PECARI" ; Times: 2
+	Query: "Didelphis marsupialis" ; Times: 1
+
+
+End of report.
