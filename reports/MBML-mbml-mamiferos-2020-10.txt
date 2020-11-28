@@ -1,0 +1,73 @@
+Report for Institution Code MBML, Resource mbml-mamiferos
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 532
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: United States ; Times: 7
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 2
+	Date: 2020-10-08 ; Times: 2
+	Date: 2020-10-21 ; Times: 1
+	Date: 2020-10-19 ; Times: 1
+	Date: 2020-10-27 ; Times: 1
+	Date: 2020-10-12 ; Times: 1
+	Date: 2020-10-13 ; Times: 5
+	Date: 2020-10-31 ; Times: 1
+	Date: 2020-10-07 ; Times: 3
+	Date: 2020-10-06 ; Times: 1
+	Date: 2020-10-20 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "mappable:1 scientificname:Marmosa murina" ; Times: 3
+	Query: "Hydrochoerus hydrochaeris AND Brazil" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "&#34;espirito santo&#34; order:primates" ; Times: 2
+	Query: "MBML 1230" ; Times: 1
+	Query: "espirito santo order:primates" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "SUI" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "specificepithet:cursor genus:Akodon" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "mappable:1 scientificname:Caluromys philander" ; Times: 2
+	Query: "Hydrochoerus hydrochaeris" ; Times: 2
+	Query: "panthera onca" ; Times: 2
+	Query: "genus:Leopardus " ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1521 download events in this period)
+Total number of records downloaded: 264
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-12 ; Times: 1
+	Date: 2020-10-13 ; Times: 1
+	Date: 2020-10-28 ; Times: 1
+	Date: 2020-10-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Mus" ; Times: 1
+	Query: "&#34;espirito santo&#34; order:primates" ; Times: 1
+	Query: "Dasyprocta" ; Times: 1
+	Query: "Myotis" ; Times: 1
+
+
+End of report.
