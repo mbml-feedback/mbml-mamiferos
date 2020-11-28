@@ -1,0 +1,47 @@
+Report for Institution Code MBML, Resource mbml-mamiferos
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 150
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Brazil ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-20 ; Times: 2
+	Date: 2020-06-21 ; Times: 1
+	Date: 2020-06-18 ; Times: 2
+	Date: 2020-06-09 ; Times: 1
+	Date: 2020-06-15 ; Times: 2
+	Date: 2020-06-03 ; Times: 1
+	Date: 2020-06-12 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "lonchophylla bokermanni" ; Times: 1
+	Query: "specificepithet:cursor genus:Akodon" ; Times: 11
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 474 download events in this period)
+Total number of records downloaded: 10
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "nasua nasua" ; Times: 1
+	Query: "lonchophylla bokermanni" ; Times: 1
+
+
+End of report.
